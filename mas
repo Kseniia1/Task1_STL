@@ -1,0 +1,19 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <cstring>
+using namespace std;
+int main ()
+{
+  int N, R;
+  cin >> N;
+  vector <int> mas(n);
+  for(int i=0; i<N; i++)
+    cin >> mas[i];
+  sort(mas.begin(), mas.end());
+  reverse(mas.begin(), mas.end());
+  for(int i=0; i<N; i++)
+    cout << mas[i] << "  ";
+ }
+ 
+    
