@@ -1,0 +1,24 @@
+Входные данные: 
+2
+Petrov Alex 2 2 3
+Baf Inna 3 3 2
+Ответ:
+Baf Inna
+Petrov Alex
+
+Входные данные:
+5
+Sidorov Vasiliy 5 5 3
+Ivanova Jul 4 5 2
+Kovalenko Petr 2 2 3
+Ismailov Oleg 4 3 5
+Makarchuk Elena 2 3 4
+Ответ:
+Sidorov Vasiliy
+Ismailov Oleg
+Ivanova Jul
+Makarchuk Elena
+Kovalenko Petr
+
+
+
