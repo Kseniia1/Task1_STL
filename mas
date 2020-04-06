@@ -14,6 +14,7 @@ int main ()
   reverse(mas.begin(), mas.end());
   for(int i=0; i<N; i++)
     cout << mas[i] << "  ";
+    return 0;
  }
  
     
